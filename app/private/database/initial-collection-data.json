@@ -89,6 +89,7 @@
           "firstName": "Lee",
           "lastName": "Altenberg",
           "username": "altenber",
+          "location": "Honolulu, HI",
           "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii.",
           "interests": [
             "Evolutionary Computation"
@@ -100,6 +101,7 @@
           "firstName": "Kyungim",
           "lastName": "Baek",
           "username": "baek",
+          "location": "Honolulu, HI",
           "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii.",
           "interests": [
             "Computer Vision"
